@@ -57,9 +57,4 @@ The objective is to build a predictive system for:
 
 ---
 
-Stay tuned for sections on:
 
-✅ Feature Engineering  
-✅ Model Training & Threshold Optimization  
-✅ Performance Comparison  
-✅ Business Recommendations
